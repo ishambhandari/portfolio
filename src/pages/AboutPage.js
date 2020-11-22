@@ -35,7 +35,7 @@ It is a long established fact that a reader will be distracted by the readable c
 
  
             
-            <h2><a href="https://drive.google.com/file/d/1NlcPqf4fBKab2niaF6Vk3d30BUjuFg30/view?usp=sharing" target="_blank">My Resume</a></h2>
+            <h2><a href="https://drive.google.com/file/d/1NlcPqf4fBKab2niaF6Vk3d30BUjuFg30/view?usp=sharing" target="_blank"  rel="noreferrer">My Resume</a></h2>
             </Contents>
         </div>
     )
